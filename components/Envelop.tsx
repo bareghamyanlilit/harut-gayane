@@ -24,7 +24,7 @@ export function Envelop({ openEnvelope, setOpenEnvelope }: any) {
             Դուք հրավիրված եք մեր նշանադրությանը
             <br />
             <span className="flex items-center justify-center gap-2">
-              Կարեն
+              Հարութ
               <Image
                 src="/icon2.png"
                 alt="icon1"
@@ -32,7 +32,7 @@ export function Envelop({ openEnvelope, setOpenEnvelope }: any) {
                 height={500}
                 className=" w-5 object-cover "
               />{" "}
-              Լիկա
+              Գայանե
             </span>
           </p>
           <button
